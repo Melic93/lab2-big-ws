@@ -8,6 +8,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import translator.Application;
 import translator.domain.TranslatedText;
+
 import static org.junit.Assert.assertEquals;
 
 
